@@ -39,6 +39,9 @@ serverless-ec2-backup-manager/
 ├── cloudguardian_report.html              # Dynamically generated runtime dashboard
 └── README.md                              # Technical project documentation
 
+SCREESHOTS: [![Execution Logs](./screenshots/cloudguardian-execution-flow.png)](./screenshots/cloudguardian-execution-flow.png)
+            [![HTML Dashboard](./screenshots/local-mock-architecture.png)](./screenshots/local-mock-architecture.png)
+
 ⚙️ Local Infrastructure Simulation & Verification
 1. Pre-requisites & Local Workspace Isolation
 Install the required application engineering packages within your local interpreter using PowerShell:
