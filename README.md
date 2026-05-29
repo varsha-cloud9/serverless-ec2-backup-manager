@@ -39,8 +39,8 @@ serverless-ec2-backup-manager/
 ├── cloudguardian_report.html              # Dynamically generated runtime dashboard
 └── README.md                              # Technical project documentation
 
-SCREESHOTS: [![Execution Logs](./screenshots/cloudguardian-execution-flow.png)](./screenshots/cloudguardian-execution-flow.png)
-            [![HTML Dashboard](./screenshots/local-mock-architecture.png)](./screenshots/local-mock-architecture.png)
+SCREESHOTS: [![Execution Logs](https://raw.githubusercontent.com/varsha-cloud9/serverless-ec2-backup-manager/main/screenshots/cloudguardian-execution-flow.png)](https://github.com/varsha-cloud9/serverless-ec2-backup-manager/blob/main/screenshots/cloudguardian-execution-flow.png)
+            [![HTML Dashboard](https://raw.githubusercontent.com/varsha-cloud9/serverless-ec2-backup-manager/main/screenshots/local-mock-architecture.png)](https://github.com/varsha-cloud9/serverless-ec2-backup-manager/blob/main/screenshots/local-mock-architecture.png)
 
 ⚙️ Local Infrastructure Simulation & Verification
 1. Pre-requisites & Local Workspace Isolation
